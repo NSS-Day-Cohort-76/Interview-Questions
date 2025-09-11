@@ -25,7 +25,7 @@ Can you tell me about a moment while working in a group when there was a conflic
 ```
 What are the four pillars of OOP?
 
-What is the difference between a one-to-many and a many-to-many relationship?
+What is the difference between a one-to-many and a many-to-many relationship? How do you handle a many-to-many relationship in Django?
 
 In SQL, What is the difference between INNER JOIN and OUTER JOIN?
 
