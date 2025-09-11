@@ -1,4 +1,4 @@
-# Interview with SWE Siddhartha Dhar Choundhury with Amazon
+# Interview with SWE Siddhartha Dhar Choundhury with Amazon by Brandon Hickman
 
 DISCLAIMER: He was pretty softspoken and has a little bit of an accent, so understanding/hearing him may be challenging.
 
@@ -54,3 +54,4 @@ Question 4:
 
 Overall it was a chill interview. My nerves calmed down quickly, and I just tried to make jokes and laugh. I probably yapped too much, but it was probably due to being nervous. I was just open and honest about things, so here's to hoping that the next one won't be as terrifying. 
 
+Good luck and happy coding!
