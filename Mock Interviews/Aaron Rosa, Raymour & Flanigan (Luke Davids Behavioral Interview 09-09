@@ -1,0 +1,22 @@
+My interview with Aaron was very laidback and just a general conversation.  
+We spoke about my frontend capstone and a little about the fullstack capstone.  
+Talked about technologies used, any hurdles that I ran into, etc.  
+
+There were no direct questions about code or how things work, although I did speak about things like:  
+- Utilizing `useContext`  
+- Setting up a Python/Django project from scratch  
+- Learning SQL and transitioning into using an ORM instead  
+
+Aaron said that if this were a technical interview, the way he handles them is in a similar fashion — conversation based.  
+Simple things (dependent on the technologies you're interviewing for) like:  
+
+- Iterating over arrays  
+- Using `.map` in React  
+- Handling app state  
+
+The one thing he said he consistently notices in NSS students that we could all improve on is giving a semi sales-pitch on what NSS is  
+and why it's so effective and held in high-esteem in the tech community.  
+
+He personally knows about NSS,  
+but if we're interviewing with anyone who doesn't know the ins and outs of how NSS functions,  
+it would be beneficial to give them a general rundown of how it works and how intensive it is.  
